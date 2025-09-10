@@ -1,0 +1,35 @@
+﻿  pch.cpp
+  BufferReader.cpp
+  BufferWriter.cpp
+  CoreGlobal.cpp
+  CorePch.cpp
+  CoreTLS.cpp
+  DBBind.cpp
+  DBConnection.cpp
+  DBConnectionPool.cpp
+  GlobalQueue.cpp
+  IocpCore.cpp
+  IocpEvent.cpp
+  Job.cpp
+  JobQueue.cpp
+  JobTimer.cpp
+  Listener.cpp
+  LockQueue.cpp
+  LoginManager.cpp
+C:\Users\Chan\Projects\Unreal\2-2_NetworkFinal\Server\ServerCore\LoginManager.cpp(135,153): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+  (compiling source file '/LoginManager.cpp')
+  
+C:\Users\Chan\Projects\Unreal\2-2_NetworkFinal\Server\ServerCore\LoginManager.cpp(135,100): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+  (compiling source file '/LoginManager.cpp')
+  
+  NetAddress.cpp
+  RecvBuffer.cpp
+  SendBuffer.cpp
+  Generating Code...
+  Compiling...
+  Service.cpp
+  Session.cpp
+  SocketUtils.cpp
+  ThreadManager.cpp
+  Generating Code...
+  ServerCore.vcxproj -> C:\Users\Chan\Projects\Unreal\2-2_NetworkFinal\Server\Libraries\Libs\ServerCore\Debug\ServerCore.lib
